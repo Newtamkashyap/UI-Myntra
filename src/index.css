@@ -1,0 +1,82 @@
+/* .secondary{
+    background-color: blueviolet;
+}
+
+.container-fluid{
+    background-color: #ec7272;
+    color: aquamarine;
+}
+.primary{
+    background-color: aqua;
+   
+} */
+
+
+
+/* header{
+    background: #000;
+} */
+.new {
+    color: rgb(245, 83, 188);
+    font-size: 9px;
+    font-weight: bold;
+    margin-top: 30px;
+    /* margin-inline-start: -5px; */
+    margin-left: -5px;
+
+}
+
+/* 
+.rotated{
+    transform: rotate(270deg);
+   
+} */
+/* .rotate {
+    white-space: nowrap;
+
+    >div {
+        transform:
+            translate(0px 110px) rotate(-90deg);
+    }
+
+
+
+} */
+
+.div2 {
+    
+    font-size: 75px;
+    font-family: arail;
+    background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/waterfalls-1679730507.jpg");
+    background-clip: text;
+    color:transparent;
+}
+
+.div3 {
+    height: 13vh;
+    width: 27.5rem;
+    font-family: Arial;
+
+}
+
+.para {
+    font-size: 12px;
+}
+.heading1{
+    font-size: 15px;
+}
+/* div.a{
+    text-orientation: mixed;
+} */
+.a{
+    writing-mode: vertical-lr;
+  
+  text-orientation: mixed;
+}
+
+.bgImg{
+    height: 13vh;
+    width: 57rem;
+    background-image: linear-gradient(to right, gray, lightgray, rgb(255, 255, 255), gray);
+    
+}
